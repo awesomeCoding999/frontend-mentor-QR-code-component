@@ -10,8 +10,7 @@
 :root {
   --white: #ffffff;
   --light-gray: #d5e1ef;
-  --grayish-blue: #7b879d;
-  --grey: #7d889e;
+  --grayish-blue: #6d7789;
   --dark-blue: #1f3251;
 }
 
@@ -54,7 +53,7 @@ body {
 .description {
   letter-spacing: 0.1875px;
   line-height: 19px;
-  color: var(--grey);
+  color: var(--grayish-blue);
   margin: 1rem;
 }
 
